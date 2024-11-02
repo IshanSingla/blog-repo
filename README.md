@@ -20,6 +20,8 @@ The personalized course recommendation system is built to:
 - **Embed User and Course Data**: AWS Bedrock generates embeddings for both user profiles and course metadata.
 - **Store and Query Embeddings**: MongoDB’s vector store efficiently stores embeddings and uses cosine similarity to retrieve top matches for personalized recommendations.
 
+<img src="./transparent.png">
+
 ## **2. System Architecture**
 Here’s an overview of the system components and workflow:
 
